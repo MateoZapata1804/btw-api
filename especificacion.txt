@@ -1,0 +1,7 @@
+la api debe tener los siguientes servicios:
+- crud de usuarios (insertar, leer, actualizar, eliminar)
+- deben haber 5 cargos: visitante, empleado, coordinador, director, gerente
+- el usuario debe tener su respectivo id, nombre, apellidos 1 y 2, email, cargo y contraseña encriptada
+- el admin debe poder crear, ver, modificar o eliminar cualquier usuario (esta cuenta será creada
+	por defecto automáticamente al crear la base de datos)
+- el admin podrá listar todos los usuarios

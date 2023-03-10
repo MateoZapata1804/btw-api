@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GEd1Ak1gQrUkIlOfN6/cbVUShVRyGRopvDpIeLnpxPk=",
+  "Source": "btw-api",
+  "BasePath": "_content/btw-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
